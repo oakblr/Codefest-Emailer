@@ -7,10 +7,10 @@
   },
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.1",
     "child_process": "^1.0.2",
     "cors": "^2.8.4",
-    "express": "~3.2.4",
+    "express": "~3.21.2",
     "getenv": "^0.7.0",
     "nodemailer": "^4.4.1",
     "promise-mysql": "^3.1.3",
